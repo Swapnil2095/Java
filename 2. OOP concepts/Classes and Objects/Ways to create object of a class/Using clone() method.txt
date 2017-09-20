@@ -1,0 +1,5 @@
+// creating object of class Test
+Test t1 = new Test();
+
+// creating clone of above object
+Test t2 = (Test)t1.clone();

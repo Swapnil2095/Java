@@ -1,0 +1,3 @@
+// creating object of public class Test
+// consider class Test present in com.p1 package
+Test obj = (Test)Class.forName("com.p1.Test").newInstance();

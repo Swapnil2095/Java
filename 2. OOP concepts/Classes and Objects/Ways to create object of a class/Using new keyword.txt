@@ -1,0 +1,2 @@
+// creating object of class Test
+Test t = new Test();
