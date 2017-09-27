@@ -1,0 +1,3 @@
+The rmic tool is used to invoke the rmi compiler that creates the Stub and Skeleton objects. 
+Its prototype is rmic classname. 
+For above program the following command need to be executed at the command prompt rmic SearchQuery

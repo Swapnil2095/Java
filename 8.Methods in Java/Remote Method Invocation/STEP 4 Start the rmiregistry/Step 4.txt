@@ -1,0 +1,2 @@
+STEP 4: Start the rmiregistry
+Start the registry service by issuing the following command at the command prompt start rmiregistry
